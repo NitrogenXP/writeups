@@ -15,7 +15,7 @@ created by `anru1anru0121` (original game from `Steve Kemp021`)
 
 ### Walkthrough links
 
-* Challenge files are [here](./Challange%20files/lihouse.zip)
+* Challenge files are [here](./Challenge%20files/lihouse.zip)
 
 * `Spectaculator 8.0` - https://www.spectaculator.com/downloads/
 
