@@ -11,7 +11,7 @@ created by `anru1anru0121` (original game from `Steve Kemp021`)
 
 ## Video walkthrough
 
-
+https://youtu.be/ZcnWdFjS5WE?si=FIvhsGzFi2EL2-qQ
 
 ### Walkthrough links
 
