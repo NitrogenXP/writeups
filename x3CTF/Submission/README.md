@@ -2,7 +2,7 @@ Submission
  
 Video walkthrough
 
-* Soon
+* https://youtu.be/fnhXAMnzUJ8
 
 Walkthrough links
 
