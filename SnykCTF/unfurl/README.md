@@ -2,7 +2,7 @@
  
 Video walkthrough
 
-* To be done!
+* https://www.youtube.com/watch?v=hSU-JyW0zAg
 
 Walkthrough links
 
